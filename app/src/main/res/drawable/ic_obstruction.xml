@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+
+    <!-- Amber/Orange triangular warning sign with dark outline -->
+    <path
+        android:fillColor="#FFF57C00"
+        android:strokeColor="#FF212121"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:pathData="M16,4 L28,28 L4,28 Z" />
+
+    <!-- Dark exclamation mark in the centre -->
+    <path
+        android:fillColor="#FF212121"
+        android:pathData="M15,11h2v7h-2zM15,20h2v2h-2z" />
+
+</vector>
